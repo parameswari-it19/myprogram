@@ -1,0 +1,39 @@
+$ mkdir animals
+$ cd animals
+$ cat > second
+nano cat.txt
+nano dog.txt
+nano lion.txt
+$ mkdir Temp
+$ cd Temp
+$ cat > first
+$ mkdir animals
+$ cd animals
+$ cat > second
+nano cat.txt
+nano dog.txt
+nano lion.txt
+
+$ mkdir Temp
+$ cd Temp
+$ cat > first
+$ mkdir animals
+$ cd animals
+$ cat > second
+nano cat.txt
+nano dog.txt
+nano lion.txt
+
+
+nano dog.txt
+nano lion.txt
+
+
+nano dog.txt
+nano lion.txt
+
+
+nano dog.txt
+nano lion.txt
+
+

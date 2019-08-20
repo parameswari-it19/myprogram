@@ -1,0 +1,6 @@
+it is also animal directory
+$ cat > lion.txt
+it isalso a animal directory
+$ mkdir birds
+$ cd birds
+$ cat > peacock.txt
